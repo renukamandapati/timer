@@ -6,8 +6,8 @@ This is a *single-page static countdown timer* built using only *HTML and CSS. I
 
 ## 🌐 Live Preview
 
-🔗 [View Live on GitHub Pages]()  
-(Update this with your actual URL)
+🔗 [View Live on GitHub Pages](https://renukamandapati.github.io/timer/)  
+
 
 ## 🎯 Features
 
